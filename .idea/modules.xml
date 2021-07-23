@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/day02-debug/day03-class.iml" filepath="$PROJECT_DIR$/day02-debug/day03-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-api/day04-api.iml" filepath="$PROJECT_DIR$/day04-api/day04-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05-jicheng/day05-jicheng.iml" filepath="$PROJECT_DIR$/day05-jicheng/day05-jicheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-Polymorphism/day06-Polymorphism.iml" filepath="$PROJECT_DIR$/day06-Polymorphism/day06-Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-interface/day06-interface.iml" filepath="$PROJECT_DIR$/day06-interface/day06-interface.iml" />
     </modules>
   </component>
 </project>
