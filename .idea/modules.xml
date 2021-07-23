@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/day05-jicheng/day05-jicheng.iml" filepath="$PROJECT_DIR$/day05-jicheng/day05-jicheng.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-Polymorphism/day06-Polymorphism.iml" filepath="$PROJECT_DIR$/day06-Polymorphism/day06-Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-interface/day06-interface.iml" filepath="$PROJECT_DIR$/day06-interface/day06-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-InnerClass/day07-InnerClass.iml" filepath="$PROJECT_DIR$/day07-InnerClass/day07-InnerClass.iml" />
     </modules>
   </component>
 </project>
