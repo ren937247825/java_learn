@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/day06-interface/day06-interface.iml" filepath="$PROJECT_DIR$/day06-interface/day06-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-Api02/day07-Api02.iml" filepath="$PROJECT_DIR$/day07-Api02/day07-Api02.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-InnerClass/day07-InnerClass.iml" filepath="$PROJECT_DIR$/day07-InnerClass/day07-InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-Packaging/day08-Packaging.iml" filepath="$PROJECT_DIR$/day08-Packaging/day08-Packaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-date/day08-date.iml" filepath="$PROJECT_DIR$/day08-date/day08-date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-exception/day08-exception.iml" filepath="$PROJECT_DIR$/day08-exception/day08-exception.iml" />
     </modules>
   </component>
 </project>
