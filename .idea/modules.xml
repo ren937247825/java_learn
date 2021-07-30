@@ -15,8 +15,11 @@
       <module fileurl="file://$PROJECT_DIR$/day08-date/day08-date.iml" filepath="$PROJECT_DIR$/day08-date/day08-date.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-exception/day08-exception.iml" filepath="$PROJECT_DIR$/day08-exception/day08-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-collection/day09-collection.iml" filepath="$PROJECT_DIR$/day09-collection/day09-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-generic/day09-generic.iml" filepath="$PROJECT_DIR$/day09-generic/day09-generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-list/day09-list.iml" filepath="$PROJECT_DIR$/day09-list/day09-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-set/day09-set.iml" filepath="$PROJECT_DIR$/day09-set/day09-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-collections/day10-collections.iml" filepath="$PROJECT_DIR$/day10-collections/day10-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-map/day10-map.iml" filepath="$PROJECT_DIR$/day10-map/day10-map.iml" />
     </modules>
   </component>
 </project>
