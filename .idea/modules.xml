@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/day09-set/day09-set.iml" filepath="$PROJECT_DIR$/day09-set/day09-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-collections/day10-collections.iml" filepath="$PROJECT_DIR$/day10-collections/day10-collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-map/day10-map.iml" filepath="$PROJECT_DIR$/day10-map/day10-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-File/day11-File.iml" filepath="$PROJECT_DIR$/day11-File/day11-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-byteCharStream/day12-byteCharStream.iml" filepath="$PROJECT_DIR$/day12-byteCharStream/day12-byteCharStream.iml" />
     </modules>
   </component>
 </project>
