@@ -23,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/day11-File/day11-File.iml" filepath="$PROJECT_DIR$/day11-File/day11-File.iml" />
       <module fileurl="file://$PROJECT_DIR$/day12-byteCharStream/day12-byteCharStream.iml" filepath="$PROJECT_DIR$/day12-byteCharStream/day12-byteCharStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day13-IO&amp;Properties/day13-IO&amp;Properties.iml" filepath="$PROJECT_DIR$/day13-IO&amp;Properties/day13-IO&amp;Properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-UDP&amp;TCP/day14-UDP&amp;TCP.iml" filepath="$PROJECT_DIR$/day14-UDP&amp;TCP/day14-UDP&amp;TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-Lambda/day15-Lambda.iml" filepath="$PROJECT_DIR$/day15-Lambda/day15-Lambda.iml" />
     </modules>
   </component>
 </project>
