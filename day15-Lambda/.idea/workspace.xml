@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a95b6334-69f4-4ea7-bc1a-e570c2ef3b73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_01/MethodDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_02/MethodGetMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_03/MethodGetMax01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_04/MethodReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_05/MethodDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_06/MethodDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_07/ArgsDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/com/itheima_08/ArgsDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/itheima_08/MethodTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day01-code/itheima_08/MethodTest02.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y8MGlDR5txNPECCcDIX7NZnrAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a95b6334-69f4-4ea7-bc1a-e570c2ef3b73" name="Default Changelist" comment="" />
+      <created>1631628668715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631628668715</updated>
+      <workItem from="1631628670067" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
