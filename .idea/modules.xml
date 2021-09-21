@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01-code/day01-method.iml" filepath="$PROJECT_DIR$/day01-code/day01-method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day02-debug/day02-debug.iml" filepath="$PROJECT_DIR$/day02-debug/day02-debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day02-debug/day03-class.iml" filepath="$PROJECT_DIR$/day02-debug/day03-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-api/day04-api.iml" filepath="$PROJECT_DIR$/day04-api/day04-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05-jicheng/day05-jicheng.iml" filepath="$PROJECT_DIR$/day05-jicheng/day05-jicheng.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-Polymorphism/day06-Polymorphism.iml" filepath="$PROJECT_DIR$/day06-Polymorphism/day06-Polymorphism.iml" />

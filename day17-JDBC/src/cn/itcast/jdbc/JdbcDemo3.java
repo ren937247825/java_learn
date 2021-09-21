@@ -1,11 +1,8 @@
 package cn.itcast.jdbc;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
-public class JdbcDemo2 {
+public class JdbcDemo3 {
     public static void main(String[] args) throws ClassNotFoundException {
         Statement statement = null;
         Connection connection = null;
