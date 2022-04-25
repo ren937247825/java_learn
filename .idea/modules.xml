@@ -26,7 +26,9 @@
       <module fileurl="file://$PROJECT_DIR$/day16-Annotation/day16-Annotation.iml" filepath="$PROJECT_DIR$/day16-Annotation/day16-Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/day17-JDBC/day17-JDBC.iml" filepath="$PROJECT_DIR$/day17-JDBC/day17-JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/day18-JDBC-lianjiechicode/day18-JDBC-lianjiechicode.iml" filepath="$PROJECT_DIR$/day18-JDBC-lianjiechicode/day18-JDBC-lianjiechicode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19-html/day19-css.iml" filepath="$PROJECT_DIR$/day19-html/day19-css.iml" />
       <module fileurl="file://$PROJECT_DIR$/day19-html/day19-html.iml" filepath="$PROJECT_DIR$/day19-html/day19-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20-css/day20-css.iml" filepath="$PROJECT_DIR$/day20-css/day20-css.iml" />
     </modules>
   </component>
 </project>
