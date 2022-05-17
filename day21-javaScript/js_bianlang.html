@@ -34,6 +34,54 @@
     document.write(obj1+ "---" +typeof(obj1) +"<br>");
     document.write(obj2+ "---" +typeof(obj2) +"<br>");
 
+    var date = new Date();
+    document.write(date.toLocaleString() + "<br>");
+    document.write(date.toLocaleDateString() + "<br>");
+    document.write(date.getTime() + "<br>");
+
+
+    document.write(Math.PI + "<br>");
+    document.write(Math.random() + "<br>");
+    document.write(Math.round(3.14) + "<br>");
+    document.write(Math.ceil(3.14) + "<br>");
+    document.write(Math.floor(3.14) + "<br>");
+
+    // 取1~100的随机整数
+    var number = Math.floor((Math.random() * 100) + 1);
+    document.write(number)
+
+    // 正则
+    var reg1 = new RegExp("/\w{6,12}/");
+    var reg = /^\w{6,12}$/;
+    var number1 = reg.test("weweeee");
+    document.write(number1 + "<br>");
+
+    //GLOBAL方法编码&解码
+
+    var str = "http://www.baidu.com/?wd=传智播客";
+    var url = encodeURI(str);
+    document.write(url + "<br>");
+    var s = decodeURI(url);
+    document.write(s + "<br>");
+
+
+    var str = "http://www.baidu.com/?wd=传智播客";
+    var url1 = encodeURIComponent(str);
+    document.write(url1 + "<br>");
+    var s1 = decodeURIComponent(url);
+    document.write(s1 + "<br>");
+
+    var str = "123abc";
+    var num12 = parseInt(str);
+    document.write(num12);
+
+    var a = NaN
+
+    document.write(isNaN(a));
+
+    var jscode = "alert(123)";
+    eval(jscode);   //解释编码
+
   </script>
 </head>
 <body>
